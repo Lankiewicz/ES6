@@ -19,7 +19,8 @@
     "onchange": "^3.3.0"
   },
   "scripts": {
-    "start": "babel js/script.js --watch --out-file script-compiled.js"
+    "start": "babel js/script.js --watch --out-file script-compiled.js",
+    "watch": "browser-sync start --server --files 'css/*.css' '*.html'"
   },
   "repository": {
     "type": "git",
