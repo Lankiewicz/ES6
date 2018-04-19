@@ -1,5 +1,5 @@
 function sayHelloTo {
 	const Hello = 'Hello';
 	const World = 'World';
-    console.log( ${'Hello', 'World'});
+    console.log(${Hello} ${World});
 };
