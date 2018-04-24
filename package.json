@@ -9,6 +9,7 @@
   "devDependencies": {
     "autoprefixer-cli": "^1.0.0",
     "babel-cli": "^6.26.0",
+    "babel-polyfill": "^6.26.0",
     "babel-preset-latest": "^6.24.1",
     "globstar": "^1.0.0",
     "http-server": "^0.11.1",
