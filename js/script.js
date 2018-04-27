@@ -14,8 +14,8 @@ function Multiply() {
 Multiply();
 
 //zadanie 3
-function add() {
-const add = (a,b,c,d) => (a+b+c+d)/4;	
+function add() => {
+(a,b,c,d) => (a+b+c+d)/4;	
 console.log(add(1,3,6,6));
 }
 add();
